@@ -1,3 +1,5 @@
+<script type="text/javascript" async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML"> </script>
+
 # latex公式简明教程
 
 撰写数学公式。有时候投稿可能会要求Latex，这时候用Word+mathtype就没戏了
